@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1000787641844",
+    "firebase_url": "https://write-fb-default-rtdb.firebaseio.com",
+    "project_id": "write-fb",
+    "storage_bucket": "write-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000787641844:android:2b2be8f0e6fc45c730a5a1",
+        "android_client_info": {
+          "package_name": "com.example.lucaregistra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaqkS0SDLGf5_iSbBIRCO1YVGJSwBozk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000787641844:android:3a6e2f916caa728e30a5a1",
+        "android_client_info": {
+          "package_name": "com.example.write_fb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaqkS0SDLGf5_iSbBIRCO1YVGJSwBozk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
